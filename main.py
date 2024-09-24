@@ -2,7 +2,7 @@ from datetime import datetime
 import os, requests, time, crayons, json, threading
 import urllib.parse
 
-#WEE ANJG KALO MO RECODE YA FORK LAH NI REPO
+# WEE ANJG KALO MO RECODE YA FORK LAH NI REPO
 # DAN TETEP CANTUMIN WINSNIPNYA
 
 def is_url_encoded(url):

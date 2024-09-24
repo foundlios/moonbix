@@ -6,7 +6,7 @@
 
 3.) siapin proxy biar lebih aman
 
-***LINUX/VPS/TERMUX***
+***LINUX/VPS***
 
 4.) copas ae command di bawah buat installasi
 
@@ -48,6 +48,14 @@ python3 main.py
 5.)  edit file data.txt lalu isi aja query 
 
 6.)click aja file yang namanya ```moonbix.bat``` untuk run bot
+
+***TERMUX**
+
+4.) di GRUP WINSNIP ae bg
+
+5.) neh linknya https://t.me/winsnip
+
+
 
 
 ***DONASI***
